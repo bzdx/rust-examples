@@ -1,3 +1,4 @@
+#[allow(dead_code)]
 pub fn run() {
   // 占位符
   println!("{} 天", 30i64);
